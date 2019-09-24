@@ -1,0 +1,15 @@
+<suite name="functional">
+	<test name="first">
+		<classes>
+			<class name="Day9.FifthProgram" />
+		</classes>
+	</test>
+	
+	<test name="second">
+		<classes>
+			<class name="Day9.FifthProgram" />	
+		</classes>
+		
+	</test>
+</suite>
+	

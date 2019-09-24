@@ -1,0 +1,9 @@
+<suite name="functional testing">
+
+	<test name ="firsttest">
+	<classes>
+	<class name="Day9.FourthProgram" />
+	<class name="Day9.TestEnabled" />
+	</classes>
+	</test>
+</suite>

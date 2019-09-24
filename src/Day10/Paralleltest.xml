@@ -1,0 +1,14 @@
+<suite name="functional testing" parallel="test">
+    <test name="testexecution">
+        <classes>
+        <parameter name="mybrowser" value="chrome"/>
+            <class name="Day10.ParallelTestingDiffBrowser" />
+        </classes>
+    </test>
+    <test name="secondexecution">
+    <classes>
+    <parameter name="mybrowser" value="firefox"/>
+            <class name="Day10.ParallelTestingDiffBrowser" />
+        </classes>
+    </test>
+</suite>

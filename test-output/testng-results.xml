@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26906" started-at="2019-09-12T10:59:36 EDT" finished-at="2019-09-12T11:00:03 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26906" started-at="2019-09-12T10:59:36 EDT" finished-at="2019-09-12T11:00:03 EDT">
+      <class name="MockTest.Asgnnt2_DataProvider_Assert">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:MockTest.Asgnnt2_DataProvider_Assert@ea1a8d5]" name="beforeClass" is-config="true" duration-ms="11407" started-at="2019-09-12T10:59:36 EDT" finished-at="2019-09-12T10:59:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:MockTest.Asgnnt2_DataProvider_Assert@ea1a8d5]" name="Registration" duration-ms="4302" started-at="2019-09-12T10:59:48 EDT" data-provider="registerTest" finished-at="2019-09-12T10:59:52 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manipalglobal0a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demotest10a]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[manipaltest10a@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manipal0@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:MockTest.Asgnnt2_DataProvider_Assert@ea1a8d5]" name="Registration" duration-ms="4081" started-at="2019-09-12T10:59:52 EDT" data-provider="registerTest" finished-at="2019-09-12T10:59:56 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manipalglobal0b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demotest10b]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[manipaltest10b@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manipal01@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:MockTest.Asgnnt2_DataProvider_Assert@ea1a8d5]" name="Registration" duration-ms="3803" started-at="2019-09-12T10:59:56 EDT" data-provider="registerTest" finished-at="2019-09-12T11:00:00 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manipalglobal0c]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demotest10c]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[manipaltest10c@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manipal02@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:MockTest.Asgnnt2_DataProvider_Assert@ea1a8d5]" name="afterClass" is-config="true" duration-ms="3191" started-at="2019-09-12T11:00:00 EDT" finished-at="2019-09-12T11:00:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MockTest.Asgnnt2_DataProvider_Assert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

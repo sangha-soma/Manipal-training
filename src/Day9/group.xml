@@ -1,0 +1,13 @@
+<suite name="functional testing">
+	<test name ="firsttest">
+	<groups>
+		<run>
+			<include name="smoke"/>
+		</run>
+		</groups>
+	<classes>
+	<class name="Day9.FourthProgram" />
+	<class name="Day9.TestEnabled" />
+	</classes>
+	</test>
+</suite>
